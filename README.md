@@ -1,7 +1,7 @@
 - name: rexia 
 - real: nathan / nano
 - location: canada
-- profession: developer, fashion designer, entrepreneur
+- profession: i like to do dev 
 - working on: para todo, school, the next steps
 - what i like: designing, food, building, creating
 
